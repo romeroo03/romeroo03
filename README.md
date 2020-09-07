@@ -2,11 +2,10 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/ikiganteng/bot-igeh.git
-	* cd bot-igeh
+	* git clone https://github.com/romeroo03/romeroo03
+	* cd romeroo03
 	* unzip node_modules.zip
-	* npm install https://github.com/huttarichard/instagram-private-api
-	* npm audit fix
+	* npm install
 	* ls
 	* Then select the tool you want to use!
 	* node filename
